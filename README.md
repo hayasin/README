@@ -8,7 +8,8 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.dribbble.com/users/954572/screenshots/5448820/gif.gif"  />
+<img align="right" height="150" src="https://cdn.dribbble.com/users/954572/screenshots/5448820/gif.gif" alt="Animated GIF" />
+
 
 ###
 
