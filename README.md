@@ -59,6 +59,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/hayasin/hayasin/output/snake.svg" alt="Snake animation" />
-
-###
